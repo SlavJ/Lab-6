@@ -31,7 +31,7 @@ if (confirmation != true) {
 function q1() {
   let q1 = prompt(
     username +
-      ", What is the capital of Germany? Is it 1. Munich 2. Dortmund 3. Berlin , please put down your answer as a number"
+      ", It's quiz time! What is the capital of Germany? Is it 1. Munich 2. Dortmund 3. Berlin , please put down your answer as a number"
   );
   if (q1 == 1) {
     document.write(
